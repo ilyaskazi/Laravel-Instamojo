@@ -20,5 +20,8 @@ Install via Composer:
 
 Then run the below migration command in main root to add tables<pre>php artisan migrate</pre>
 
+## Customization
+Does your business needs customization? Reach out us on [my website](http://www.ilyaskazi.com/contact-me).
+
 ### License:
 Laravel-Instamojo is open-sourced software licensed under the <a href='https://github.com/ilyaskazi/laravel-instamojo/blob/master/LICENSE'>MIT license</a>
